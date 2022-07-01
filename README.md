@@ -1,5 +1,5 @@
 # BLE-Bee
-XBee footprint compatible BLE Module.
+XBee footprint compatible Bluetooth Low Energy (BLE) Module.
 
 * UART interface
 * XBee compatible Pinout (3.3V)
